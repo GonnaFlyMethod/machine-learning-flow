@@ -1,7 +1,7 @@
 # machine-learning-flow
 A simple machine learning flow
 
-This repo was inspired by [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+This repository was inspired by [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) and his [wonderful video](https://www.youtube.com/watch?v=7eh4d6sabA0)
 
 # Installation
 
