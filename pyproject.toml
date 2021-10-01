@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ml_learning_project"
+version = "0.1.0"
+description = ""
+authors = ["aleksandr.gusakov <aleksandr.gusakov@pm.by>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+pandas = "^1.3.3"
+scikit-learn = "^1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
